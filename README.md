@@ -6,8 +6,9 @@
 ## Build Setup
 
 ``` bash
-# Project Demo
-https://nuxtjs-blog-ssr.herokuapp.com/
+# Project Link
+<https://nuxtjs-blog-ssr.herokuapp.com/>
+
 
 # install dependencies
 $ npm install
