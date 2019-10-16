@@ -2,14 +2,13 @@
 
 > NuxtJs Blog Application
 
-## Project Link 
-``` bash
-https://nuxtjs-blog-ssr.herokuapp.com/
-```
 
 ## Build Setup
 
 ``` bash
+# Project Demo
+https://nuxtjs-blog-ssr.herokuapp.com/
+
 # install dependencies
 $ npm install
 
