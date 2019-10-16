@@ -7,7 +7,7 @@
 
 ``` bash
 # Project Link
-<https://nuxtjs-blog-ssr.herokuapp.com/>
+[Live Demo](https://nuxtjs-blog-ssr.herokuapp.com/)
 
 
 # install dependencies
