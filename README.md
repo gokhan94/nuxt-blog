@@ -2,7 +2,7 @@
 
 > NuxtJs Blog Application
 
-## Project  Demo 
+## Project Link 
 ``` bash
 https://nuxtjs-blog-ssr.herokuapp.com/
 ```
