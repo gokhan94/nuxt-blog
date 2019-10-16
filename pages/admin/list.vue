@@ -66,8 +66,7 @@ export default {
           cancelButtonText: 'iptal',
           type: 'warning'
         })
-        //Hangi id no.lu konu silinecek id numarası alınır
-        //Store gönderilip veritabanı üzerinden konu silinir
+
         await this.$store.dispatch('post/remove', id)
         this.posts = this.posts.filter(p => p._id !== id)
 

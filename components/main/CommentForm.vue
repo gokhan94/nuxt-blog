@@ -64,8 +64,6 @@ export default {
         if (valid) {
           this.loading = true
 
-          //Kayıt ekleme işlemi...
-          //{name: "title", text: "desc", postId: "adsadsf5546"}
           const formData = {
             name:   this.controls.name,
             text:   this.controls.text,

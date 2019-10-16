@@ -38,7 +38,7 @@ router.delete(
   postController.remove
 )
 
-// Normal Kullanıcıların erişebileceği link yapısı
+// Not Auth Route
 // /api/post
 router.get('/',    postController.getAll)
 router.get('/:id', postController.getById)

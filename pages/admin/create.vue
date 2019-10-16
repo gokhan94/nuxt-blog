@@ -97,7 +97,6 @@ export default {
         if (valid && this.image) {
           this.loading = true
 
-          //{title: "Konu 1", text: "Konu Açıklama", image: "image.jpg"}
           const formData = {
             title: this.controls.title,
             text:  this.controls.text,
