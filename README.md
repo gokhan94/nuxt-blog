@@ -2,6 +2,11 @@
 
 > NuxtJs Blog Application
 
+## Project Demo 
+``` bash
+https://nuxtjs-blog-ssr.herokuapp.com/
+```
+
 ## Build Setup
 
 ``` bash
